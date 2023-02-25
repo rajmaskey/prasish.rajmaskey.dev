@@ -2,7 +2,7 @@
 AMOGUS! a website based on internet.
 
 
-Buld under zalgo.js
+build under zalgo.js
 
 demo: https://prasish.rajmaskey.dev
 
